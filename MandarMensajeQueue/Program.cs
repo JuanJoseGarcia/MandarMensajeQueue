@@ -16,7 +16,6 @@ namespace MandarMensajeQueue
         {
             public string Asunto { get; set; }
             public string Contenido { get; set; }
-
         }
 
         static void Main(string[] args)
